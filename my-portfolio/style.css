@@ -1,0 +1,73 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f7f3f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #36302f;
+}
+
+
+header {
+    background-color: #36302f;
+    
+}
+
+h1 {
+    padding: 20px 0;
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    
+}
+
+h2 {
+    font-size: 24px;
+}
+
+a {
+    color: rgb(223, 126, 126);
+
+}
+/*(margin: 0 auto) will center everything in the container. 0 represents top&button,auto left&right*/ 
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    
+  
+}
+
+#main-bio {
+    float: left;
+}
+#contact-info {
+    float: left;
+}
+#bio-image {
+    float: left;
+}
+
+#main-bio {
+width: 70%;
+}
+
+
+#contact-info {
+    width: 30%;
+
+}
+
+
+#bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+
+}
+    
+
+
